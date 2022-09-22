@@ -1,0 +1,10 @@
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\bin\Debug\pkk111ilya.exe.config
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\bin\Debug\pkk111ilya.exe
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\bin\Debug\pkk111ilya.pdb
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.Form1.resources
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.Properties.Resources.resources
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.exe
+C:\Users\IT\source\repos\pkk111ilya\pkk111ilya\obj\Debug\pkk111ilya.pdb
