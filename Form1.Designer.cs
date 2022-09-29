@@ -67,29 +67,34 @@ namespace pkk111ilya
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(110, 101);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button2.Location = new System.Drawing.Point(208, 193);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(92, 86);
             this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
+            this.button2.Text = "√x";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(208, 101);
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button3.Location = new System.Drawing.Point(110, 193);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(92, 86);
             this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
+            this.button3.Text = "x²";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button4.Location = new System.Drawing.Point(306, 101);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(92, 86);
             this.button4.TabIndex = 4;
-            this.button4.Text = "button4";
+            this.button4.Text = "<";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -104,30 +109,35 @@ namespace pkk111ilya
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(208, 193);
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button6.Location = new System.Drawing.Point(208, 101);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(92, 86);
             this.button6.TabIndex = 7;
-            this.button6.Text = "button6";
+            this.button6.Text = "C";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(110, 193);
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button7.Location = new System.Drawing.Point(110, 101);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(92, 86);
             this.button7.TabIndex = 6;
-            this.button7.Text = "button7";
+            this.button7.Text = "CE";
             this.button7.UseVisualStyleBackColor = true;
             // 
             // button8
             // 
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button8.Location = new System.Drawing.Point(12, 193);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(92, 86);
             this.button8.TabIndex = 5;
-            this.button8.Text = "button8";
+            this.button8.Text = "1/x";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -266,21 +276,25 @@ namespace pkk111ilya
             // 
             // button22
             // 
+            this.button22.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button22.Location = new System.Drawing.Point(208, 561);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(92, 86);
             this.button22.TabIndex = 23;
-            this.button22.Text = "button22";
+            this.button22.Text = ",";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.button20_Click);
             // 
             // button23
             // 
+            this.button23.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button23.Location = new System.Drawing.Point(110, 561);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(92, 86);
             this.button23.TabIndex = 22;
-            this.button23.Text = "button23";
+            this.button23.Text = "0";
             this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.button20_Click);
             // 
             // button24
             // 
@@ -289,9 +303,9 @@ namespace pkk111ilya
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(92, 86);
             this.button24.TabIndex = 21;
-            this.button24.Text = "0";
+            this.button24.Text = "+/-";
             this.button24.UseVisualStyleBackColor = true;
-            this.button24.Click += new System.EventHandler(this.button20_Click);
+            this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
             // textBox1
             // 
